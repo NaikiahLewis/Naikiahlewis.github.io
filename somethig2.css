@@ -1,0 +1,33 @@
+  /* applies to whole page  */
+    *{
+    font-size:  20px;
+   }
+
+  /* applies to only the div tag */
+  div{
+    margin-top :  50px;
+    margin- left:  40px;
+  }
+
+  /* applies to only the div with id "border" */
+  #border {
+    border-style:  dotted;
+    border-color:  Pink
+  }
+
+  #colorful {
+    front-color:
+  }
+  h1{
+    text-align: center;
+    color: purple;
+    background-color: pink;
+    font-size: 90pt;
+  }
+  body{
+
+
+  background: linear-gradient(-90deg, #b0f4b4, #ff99cc);
+
+    
+    }
